@@ -1,2 +1,2 @@
 # Vanity-Swapper
-url swapper
+contact 17cp
