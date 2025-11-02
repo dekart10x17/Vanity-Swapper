@@ -1,5 +1,5 @@
 {
-    "sourceToken": "",  // tokenlarıda girersiniz aq
+    "sourceToken": "",  
     "targetToken": "",
     "sourceGuildId": "url swap edilicek sunucu",
     "targetGuildId": "urlnin aktarılıcagı sunucu",
@@ -7,4 +7,5 @@
     "tempVanity": "",
     "webhookUrl": "webhook gir"
 }
+
 
